@@ -20,7 +20,36 @@
 /*mobiler*/
 @media (max-width: 767px) {
     
+    #map {
+        height: 200px;
+        width: 61%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 4.3%;
+    }  
     
+    .info {
+        margin-left: 19%;
+    }
+    
+    .info1 {
+        margin-left: 19%;
+    }
+    
+    
+    .kontaktinfo, .abningstider {
+        text-align: center;
+    }
+    
+    .ugedage {
+        line-height: 28px;
+        text-align: center;
+    }
+    
+    .some {
+        color: white; 
+        
+    }
     
 }
 
